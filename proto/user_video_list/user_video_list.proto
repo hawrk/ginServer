@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+
+service UserVideService {
+  rpc SearchUserVideoList(SearchUserVideoReq) returns (SearchUserVideoRsp){}
+}
+
+message SearchUserVideoReq{
+  int64 uid = 1;
+  int64 requestVideoSize = 2;
+}
+
+message SearchUserVideoRsp{
+  int64 code = 1;    // 错误码 ，200 为成功
+  int64 uid = 2;     // 用户ID
+  string uname = 3;  // 用户名，缺省
+  repeated VideoInfo video_list = 4 ;  //视频列表
+}
+
+message VideoInfo{
+  int64 vid = 1;     // 视频id
+  string author = 2;    // 作者
+  string title = 3;    // 标题
+  string desc = 4;    // 视频描述
+  string video_url = 5;   // 视频URL
+  string picuture_url = 6; // 图片URL
+  string tag = 7 ;   //标签
+  int32 algorithm_policy = 8;  //召回策略
+}
+
+

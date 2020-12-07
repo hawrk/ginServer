@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b395a859-34b3-4178-98a1-e78b4ff97df9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ginServer" beforeDir="false" afterPath="$PROJECT_DIR$/ginServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/ginServer.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/ginServer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lBEW4HEgDQGfIMnbQ7aWPHEQkq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:增加调用推荐接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:增加调用推荐接口" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="290" key="#Notifications" timestamp="1607154259976">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="479" y="290" key="#Notifications/1536.23.1920.1057/0.23.1536.869@0.23.1536.869" timestamp="1607154259976" />
+    <state x="345" y="28" key="CommitChangelistDialog2" timestamp="1607159570355">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="345" y="28" key="CommitChangelistDialog2/1536.23.1920.1057/0.23.1536.869@0.23.1536.869" timestamp="1607159570355" />
+    <state x="1906" y="169" key="SettingsEditor" timestamp="1607063715425">
+      <screen x="1536" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1906" y="169" key="SettingsEditor/1536.23.1920.1057/0.23.1536.867@1536.23.1920.1057" timestamp="1607063715425" />
+    <state x="368" y="199" key="Vcs.Push.Dialog.v2" timestamp="1607159577615">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="368" y="199" key="Vcs.Push.Dialog.v2/1536.23.1920.1057/0.23.1536.869@0.23.1536.869" timestamp="1607159577615" />
+    <state x="2207" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1607072546885">
+      <screen x="1536" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2207" y="258" width="670" height="676" key="search.everywhere.popup/1536.23.1920.1057/0.23.1536.869@1536.23.1920.1057" timestamp="1607072546885" />
+  </component>
+</project>

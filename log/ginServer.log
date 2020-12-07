@@ -1,0 +1,18 @@
+{"level":"DEBUG","ts":"2020-12-05 15:01:40","file":"ginServer/main.go:34","TRACE":"get log level:DEBUG"}
+{"level":"DEBUG","ts":"2020-12-05 15:10:52","file":"ginServer/main.go:34","TRACE":"get log level:DEBUG"}
+{"level":"DEBUG","ts":"2020-12-05 15:12:33","file":"ginServer/main.go:34","TRACE":">>>>>>>>>>>> service start >>>>>>>>>>>>>>>"}
+{"level":"DEBUG","ts":"2020-12-05 15:12:33","file":"ginServer/main.go:35","TRACE":"get log level: DEBUG"}
+{"level":"DEBUG","ts":"2020-12-05 15:16:01","file":"ginServer/main.go:34","TRACE":">>>>>>>>>>>> service start >>>>>>>>>>>>>>>"}
+{"level":"DEBUG","ts":"2020-12-05 15:16:01","file":"ginServer/main.go:35","TRACE":"get log level: DEBUG"}
+{"level":"DEBUG","ts":"2020-12-05 15:16:12","file":"ginServer/main.go:34","TRACE":">>>>>>>>>>>> service start >>>>>>>>>>>>>>>"}
+{"level":"DEBUG","ts":"2020-12-05 15:16:12","file":"ginServer/main.go:35","TRACE":"get log level: DEBUG"}
+{"level":"DEBUG","ts":"2020-12-05 16:31:00","file":"ginServer/main.go:46","TRACE":">>>>>>>>>>>> service start >>>>>>>>>>>>>>>"}
+{"level":"DEBUG","ts":"2020-12-05 16:31:00","file":"ginServer/main.go:47","TRACE":"get log level: DEBUG"}
+{"level":"INFO","ts":"2020-12-05 16:31:00","file":"ginServer/main.go:16","TRACE":"get rpcport1:50049, port2:"}
+{"level":"INFO","ts":"2020-12-05 16:31:00","file":"handle/get_report.go:19","TRACE":"get addr::50049"}
+{"level":"INFO","ts":"2020-12-05 16:31:00","file":"handle/get_recomm_video_list.go:20","TRACE":"get rpc addr::"}
+{"level":"DEBUG","ts":"2020-12-05 16:33:21","file":"ginServer/main.go:46","TRACE":">>>>>>>>>>>> service start >>>>>>>>>>>>>>>"}
+{"level":"DEBUG","ts":"2020-12-05 16:33:21","file":"ginServer/main.go:47","TRACE":"get log level: DEBUG"}
+{"level":"INFO","ts":"2020-12-05 16:33:21","file":"ginServer/main.go:16","TRACE":"get rpcport1:50049, port2:51053"}
+{"level":"INFO","ts":"2020-12-05 16:33:21","file":"handle/get_report.go:19","TRACE":"get addr::50049"}
+{"level":"INFO","ts":"2020-12-05 16:33:21","file":"handle/get_recomm_video_list.go:20","TRACE":"get rpc addr::51053"}

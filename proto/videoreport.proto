@@ -1,0 +1,28 @@
+syntax = "proto3";
+package videoreport;
+option go_package = ".;videoreport";
+option cc_generic_services = true;
+
+message DailyReportReq {
+  string start_time =1;   // 按日统计，开始时间
+  string end_time = 2;   // 结束时间
+}
+
+message ReportInfo {
+  string report_data = 1;             //统计日期
+  int32 dau = 2;                      // 日活
+  int64 total_duration = 3;           // 总时长
+  int64 total_valid_duration = 4;     // 总有效时长
+  string avg_duration = 5;            // 人均时长
+  string avg_valid_duration = 6;      // 人均有效时长 (超过8')
+  string avg_vv = 7;                  // 人均vv
+}
+
+message DailyReportRsp {
+  repeated ReportInfo report_info = 1;
+}
+
+service VideoReport {
+  // 查询每日报表统计数据
+  rpc queryDailyReport(DailyReportReq) returns (DailyReportRsp);
+}
